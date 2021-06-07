@@ -1,0 +1,19 @@
+Inicio ejercicio 7.txt
+	Definir n, aleat , impar, par, ceros, contador
+	n = <-   aleat (36)
+	for 0 . 36 . 0
+	ceros <- 0
+	pares <- 0
+	impares <-0
+	si n numero / 2 =  0 entonces
+	Escribir "el porcentaje de numeros pares es" n
+	SiNo
+		Escribir "el porcentaje de numero impares es" n- impares
+	fin si
+	para ceros = 1 hasta n hacer 
+		Escribir "los ceros genreados son porcentaje restante"
+		si ceros == o entonces
+	contador = contador +1
+	Escribir " la cantidad de numeros que son 0 es " ceros contador
+Fin algoritmo
+ 
